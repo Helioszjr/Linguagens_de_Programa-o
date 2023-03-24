@@ -1,41 +1,5 @@
 # Linguagens de Programação
 
-### Índice
-
-    -   [Programação](#programação)
-    -   [Sistemas Operacionais](#sistemas-operacionais)
--   [C](#c)
--   [C#](#c-sharp)
--   [C++](#cpp)
--   [Engenharia de software](#engenharia-de-software)
-    -   [Arquitetura de Software](#arquitetura-de-software)
-    -   [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
-    -   [Outros](#outros)
--   [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
--   [Git](#git)
--   [Go](#go)
--   [HTML / CSS](#html--css)
--   [Java](#java)
--   [JavaScript](#javascript)
-    -   [AngularJS](#angularjs)
-    -   [Backbone.js](#backbonejs)
-    -   [Ember.js](#emberjs)
-    -   [Express.js](#expressjs)
-    -   [Grunt](#grunt)
-    -   [Gulp](#gulp)
-    -   [jQuery](#jquery)
-    -   [Knockout.js](#knockoutjs)
-    -   [Meteor](#meteor)
-    -   [Node.js](#nodejs)
-    -   [React](#react)
-    -   [Vue.js](#vuejs)
--   [LaTeX](#latex)
--   [Python](#python)
--   [R](#r)
--   [Ruby](#ruby)
--   [TypeScript](#typescript)
-
-
 #### Programação {#programação}
 
 -   [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
